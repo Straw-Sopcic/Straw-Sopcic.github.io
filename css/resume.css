@@ -150,3 +150,7 @@ a:hover, a:focus, a:active {
 #temp {
     display: none;
 }
+
+.card-group>.card:first-child {
+   border-left: 1;
+}
